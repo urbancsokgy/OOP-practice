@@ -1,3 +1,6 @@
 import './style.scss';
 
-console.log(`Csövi....`);
+const user = {
+    name: 'Juli',
+    email: 'juli@legjobbangoltanar.hu',
+};
